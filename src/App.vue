@@ -6,6 +6,9 @@
 <script>
 export default {
   name: 'App',
+  methods:{
+    demo(){},
+  },
   data() {
     return {
       // 用于点击当前页的router时，刷新当前页
