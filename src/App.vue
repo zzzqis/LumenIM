@@ -7,7 +7,7 @@
 export default {
   name: 'App',
   methods:{
-    demo(){},
+
   },
   data() {
     return {
